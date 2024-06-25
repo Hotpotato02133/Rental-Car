@@ -55,7 +55,7 @@ const Header = () => {
           href="/car-rental-ph/"
           className="text-2xl font-bold text-gray-800 hover:cursor-pointer"
         >
-          Jolly Cards
+          Car Rental
         </a>
       </div>
       <>
